@@ -1,0 +1,28 @@
+- name: instagram
+  url: https://www.instagram.com/gizmokid2005
+  icon: skill-icons:instagram #ri:instagram-fill
+#  color: '#E4405F'
+
+- name: mastodon
+  url: https://mastodon.social/@gizmokid2005
+  icon: openmoji:mastodon #skill-icons:mastodon-dark #ri:mastodon-fill
+#  color: '#6364FF'
+
+- name: threads
+  url: https://www.threads.net/@gizmokid2005
+  icon: ri:threads-line
+
+- name: youtube
+  url: https://www.youtube.com/@gizmokid2005
+  icon: openmoji:youtube #ri:youtube-fill
+#  color: '#FF0000'
+
+#- name: facebook
+#  url: https://www.facebook.com/example
+#  icon: ri:facebook-fill
+#  color: '#1877F2'
+
+#- name: x
+#  url: https://x.com/example
+#  icon: ri:twitter-x-fill
+#  color: '#1D9BF0'
